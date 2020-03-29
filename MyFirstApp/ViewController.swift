@@ -29,8 +29,7 @@ class ViewController: UIViewController {
         timer = Timer.scheduledTimer(timeInterval: 1, target: self, selector: #selector(timerFunction) , userInfo: nil, repeats: true)
         
         
-
-        
+        print("hi")         
         
         
     }
